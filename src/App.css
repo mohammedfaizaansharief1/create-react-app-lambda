@@ -1,0 +1,15 @@
+#root {
+  /* max-width: 1280px; */
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+.container{
+  width: 100vw;
+  height: 100vh;
+  background-color: #93cddd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
